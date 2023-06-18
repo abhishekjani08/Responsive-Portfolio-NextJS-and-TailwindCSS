@@ -66,21 +66,27 @@ const HeroSection = () => {
           )}
         </div>
         <div className="md:mt-2 md:w-3/5">
-        <div className="fontsfamily">
+          <div className="fontsfamily">
 
-          <h1 className="text-4xl  font-bold mt-6 md:mt-0 md:text-7xl">Hi, I&#39;m 
-          <div className="text-teal-500">Abhishek Jani!
-          </div>
-          </h1>
-          <div className="text-md mt-4 mb-6 md:text-2xl">
-            <p className="animated-text-1 ">I&#39;m a{" "}
-              <span className="font-medium text-teal-500">
-                Full Stack Developer  {" "}
-              </span> & <span className="font-medium text-teal-500">Graphic Designer</span>
-            </p>
+            <h1 className="text-4xl  font-bold mt-6 md:mt-0 md:text-7xl">Hi, I&#39;m
+              <div className="text-teal-500">Abhishek Jani 
+                <div className="waving-hand">&nbsp;
+                  <div className="hand">
+                    <span role="img" aria-label="Waving Hand" className="hand-emoji"> <img src="icons8-waving-hand-803.png"></img></span>
+                  </div>
+                </div>
 
-            <p id="animated-text-2">I am a Final year IT Engineering Student.</p>
-            <p id="animated-text-3"> Enhancing my MERN Stack Skills.</p>
+              </div>
+            </h1>
+            <div className="text-md mt-4 mb-6 md:text-2xl">
+              <p className="animated-text-1 ">I&#39;m a{" "}
+                <span className="font-medium text-teal-500">
+                  Full Stack Developer  {" "}
+                </span> & <span className="font-medium text-teal-500">Graphic Designer</span>
+              </p>
+
+              <p id="animated-text-2">I am a Final year IT Engineering Student.</p>
+              <p id="animated-text-3"> Enhancing my MERN Stack Skills.</p>
             </div>
           </div>
 
@@ -113,7 +119,7 @@ const HeroSection = () => {
                 size={30}
               />
             </a>
-           
+
             <a
               href="https://www.behance.net/abhishek2003"
               rel="noreferrer"

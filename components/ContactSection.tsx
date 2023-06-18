@@ -66,7 +66,7 @@ const ContactSection = () => {
 
           <div className="mb-4">
             <label htmlFor="email" className="block mb-2">
-              Email:
+              Email Id:
             </label>
             <input
               type="email"

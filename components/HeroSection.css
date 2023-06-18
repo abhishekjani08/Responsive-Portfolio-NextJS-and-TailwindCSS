@@ -29,3 +29,35 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   
+
+  @keyframes wavingAnimation {
+    0% {
+      transform: rotate(-20deg);
+    }
+    25% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(20deg);
+    }
+    75% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(-20deg);
+    }
+  }
+  
+  .waving-hand {
+    display: inline-block;
+    animation: wavingAnimation 2s infinite;
+  }
+  
+  .hand {
+    display: inline-block;
+  }
+  
+  .hand-emoji {
+    color: aqua;
+  }
+  
