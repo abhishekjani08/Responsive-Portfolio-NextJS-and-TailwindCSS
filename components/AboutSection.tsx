@@ -53,7 +53,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              😛 I am pursuing Bachelor's of Engineering in Information Technology.<br></br>
+              😛 I am pursuing Bachelor&#39;s of Engineering in Information Technology.<br></br>
               🚀 Currently, i am in my Final year of Engineering.<br></br>
               🪴 I am learning more about MERN Stack.<br></br>
               🙌 I also work on Freelancing Projects.

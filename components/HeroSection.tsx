@@ -72,7 +72,10 @@ const HeroSection = () => {
               <div className="text-teal-500">Abhishek Jani 
                 <div className="waving-hand">&nbsp;
                   <div className="hand">
-                    <span role="img" aria-label="Waving Hand" className="hand-emoji"> <img src="icons8-waving-hand-803.png"></img></span>
+                    <span role="img" aria-label="Waving Hand" className="hand-emoji"> 
+                    <Image src="/icons8-waving-hand-803.png"  alt=""
+              width={50}
+              height={50}></Image></span>
                   </div>
                 </div>
 
