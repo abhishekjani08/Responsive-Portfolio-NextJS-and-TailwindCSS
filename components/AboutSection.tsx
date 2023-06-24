@@ -53,7 +53,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              😛 I am pursuing Bachelor&#39;s of Engineering in Information Technology.<br></br>
+              😄 I am pursuing Bachelor&#39;s of Engineering in Information Technology.<br></br>
               🚀 Currently, i am in my Final year of Engineering.<br></br>
               🪴 I am learning more about MERN Stack.<br></br>
               🙌 I also work on Freelancing Projects.
@@ -67,7 +67,7 @@ const AboutSection = () => {
               and that&#39;s what I strive to do, I have a passion for
               technology and a desire to always push the limits of what is
               possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              always open to new opportunities.🤩
             </p>
             <br />
             <Image
