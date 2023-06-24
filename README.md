@@ -1,6 +1,7 @@
 # Responsive-Portfolio-using-NextJS-and-TailwindCSS
 > ## Home Page with Light and Dark Theme
-![image](https://github.com/abhishekjani08/Responsive-Portfolio-NextJS-and-TailwindCSS/assets/88500027/51999351-c22f-4c5d-a83f-971841a477b7)<br>
-![image](https://github.com/abhishekjani08/Responsive-Portfolio-NextJS-and-TailwindCSS/assets/88500027/ebb5fd17-bd6b-4184-b06c-97a4011ee0c5)
+![image](https://github.com/abhishekjani08/Responsive-Portfolio-NextJS-and-TailwindCSS/assets/88500027/a42ecc29-dcc6-47cb-9472-c076e7014273)
+![image](https://github.com/abhishekjani08/Responsive-Portfolio-NextJS-and-TailwindCSS/assets/88500027/67408c0d-800c-42d6-9c8d-d4e7727922f2)
 > ## Responsive as well
-![image](https://github.com/abhishekjani08/Responsive-Portfolio-NextJS-and-TailwindCSS/assets/88500027/9b7d0d90-e5fa-4a97-b429-fcb0e03695c6)
+![image](https://github.com/abhishekjani08/Responsive-Portfolio-NextJS-and-TailwindCSS/assets/88500027/08626b68-d937-4aa8-8348-3435b129302f)
+
