@@ -102,7 +102,7 @@ const HeroSection = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/abhishek-jani-9059011a9/"
+              href="https://www.linkedin.com/in/abhishekjani08/"
               rel="noreferrer"
               target="_blank"
             >

@@ -18,7 +18,7 @@ const projects = [
     description: "This project identifies the American sign language as well as the gestures associated with it. It facilitates communication for Deaf and Mute persons. For the majority of the alphabets, we produced our own dataset and trained them to generate a haar cascade file",
     image: "/proj2.png",
     github: "https://github.com/abhishekjani08/Sign-language-Recognition-System",
-    link: "https://www.linkedin.com/posts/abhishek-jani-9059011a9_miniproject-project-teamwork-activity-6939890954661154816-j9CH?utm_source=share&utm_medium=member_desktop",
+    link: "https://www.linkedin.com/posts/abhishekjani08_miniproject-project-teamwork-activity-6939890954661154816-j9CH?utm_source=share&utm_medium=member_desktop",
   },
   {
     name: "Productivity WebApp",
@@ -34,7 +34,7 @@ const projects = [
       "This is a Full Stack (MERN) car rental Application with admin panel & ant design for styling components and to book cars with the cars availability. It is developed using React for Front End , Redux-Thunk for Asynchronous operations, Node JS for Runtime environment , Express JS for Backend Routing and Mongo DB for Database.",
     image: "/proj4.png",
     github: "https://github.com/abhishekjani08/CarDekho_RentCars_MERN",
-    link: "https://www.linkedin.com/posts/abhishek-jani-9059011a9_project-softwaredevelopment-mern-activity-7034234653586694144-_aaT?utm_source=share&utm_medium=member_desktop",
+    link: "https://www.linkedin.com/posts/abhishekjani08_project-softwaredevelopment-mern-activity-7034234653586694144-_aaT?utm_source=share&utm_medium=member_desktop",
   },
   {
     name: "Candy Crush Clone in Flutter",
@@ -42,7 +42,7 @@ const projects = [
       "The Candy Crush Flutter project was an exciting part of my Mobile App Development Lab in Flutter. While the application is already functional, there are still many things that I plan to update and improve upon.",
     image: "/proj5.png",
     github: "https://github.com/abhishekjani08/Candy-crush-Flutter",
-    link: "https://www.linkedin.com/posts/abhishek-jani-9059011a9_android-flutter-androiddev-activity-7067101062389710848-oleA?utm_source=share&utm_medium=member_desktop",
+    link: "https://www.linkedin.com/posts/abhishekjani08_android-flutter-androiddev-activity-7067101062389710848-_u9Y?utm_source=share&utm_medium=member_desktop",
   },
   {
     name: "REMOTE CONTROLLED GRASS CUTTING ROBOT",
