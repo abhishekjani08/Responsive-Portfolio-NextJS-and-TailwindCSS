@@ -113,7 +113,7 @@ const HeroSection = () => {
             </a>
 
             <a
-              href="https://flowcv.com/resume/h1nh5esfq4"
+              href="https://flowcv.com/resume/esi8rcl417"
               rel="noreferrer"
               target="_blank"
             >

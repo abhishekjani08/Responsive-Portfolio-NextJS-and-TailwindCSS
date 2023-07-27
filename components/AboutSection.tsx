@@ -85,7 +85,7 @@ const AboutSection = () => {
 
             <div className="flex flex-wrap flex-row justify-center z-10 md:justify-start">
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <AiOutlineHtml5
                   className="hover:-translate-y-1 transition-transform cursor-pointer text-black dark:text-black"
                   size={30}
@@ -93,7 +93,7 @@ const AboutSection = () => {
                 <h3> HTML </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <Image
                   src="/css-logo.png"
                   alt=""
@@ -104,7 +104,7 @@ const AboutSection = () => {
                 <h3> CSS </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <Image
                   src="/icons8-javascript-50.png"
                   alt=""
@@ -115,7 +115,7 @@ const AboutSection = () => {
                 <h3> Javascript </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <Image
                   src="/icons8-c++-50.png"
                   alt=""
@@ -126,7 +126,7 @@ const AboutSection = () => {
                 <h3> C++ </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <Image
                   src="/icons8-python-50.png"
                   alt=""
@@ -137,7 +137,7 @@ const AboutSection = () => {
                 <h3> Python </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <Image
                   src="/icons8-machine-learning-50.png"
                   alt=""
@@ -148,7 +148,7 @@ const AboutSection = () => {
                 <h3> Machine Learning </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <Image
                   src="/icons8-data-backup-50.png"
                   alt=""
@@ -159,7 +159,7 @@ const AboutSection = () => {
                 <h3> Data Science </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <Image
                   src="/icons8-flutter-50.png"
                   alt=""
@@ -170,7 +170,7 @@ const AboutSection = () => {
                 <h3> Flutter </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <AiOutlineGithub
                   className="hover:-translate-y-1 transition-transform cursor-pointer text-black dark:text-black"
                   size={30}
@@ -178,7 +178,7 @@ const AboutSection = () => {
                 <h3> Github </h3>
               </span>
 
-              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-700 rounded font-bold hover:bg-cyan-500 hover:text-white">
+              <span className="flex flex-row bg-gray-200 px-4 py-2 mr-2 mt-2 text-cyan-500 rounded font-bold hover:bg-cyan-500 hover:text-white">
                 <Image
                   src="/mongologo.png"
                   alt=""
