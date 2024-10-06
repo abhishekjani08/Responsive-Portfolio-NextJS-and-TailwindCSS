@@ -69,13 +69,13 @@ const HeroSection = () => {
           <div className="fontsfamily">
 
             <h1 className="text-4xl  font-bold mt-6 md:mt-0 md:text-7xl">Hi, I&#39;m
-              <div className="text-teal-500">Abhishek Jani 
+              <div className="text-teal-500">Abhishek Jani
                 <div className="waving-hand">&nbsp;
                   <div className="hand">
-                    <span role="img" aria-label="Waving Hand" className="hand-emoji"> 
-                    <Image src="/icons8-waving-hand-803.png"  alt=""
-              width={50}
-              height={50}></Image></span>
+                    <span role="img" aria-label="Waving Hand" className="hand-emoji">
+                      <Image src="/icons8-waving-hand-803.png" alt=""
+                        width={50}
+                        height={50}></Image></span>
                   </div>
                 </div>
 
