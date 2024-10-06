@@ -84,12 +84,12 @@ const HeroSection = () => {
             <div className="text-md mt-4 mb-6 md:text-2xl">
               <p className="animated-text-1 ">I&#39;m a{" "}
                 <span className="font-medium text-teal-500">
-                  Full Stack Developer  {" "}
-                </span> & <span className="font-medium text-teal-500">Graphic Designer</span>
+                  Software Developer  {" "}
+                </span> at <span className="font-medium text-teal-500">ARCON</span>
               </p>
 
-              <p id="animated-text-2">I am a Final year IT Engineering Student.</p>
-              <p id="animated-text-3"> Enhancing my MERN Stack Skills.</p>
+              <p id="animated-text-2">MERN & MEAN Stack Developer</p>
+              <p id="animated-text-3"> Machine learning and Open source enthusiast</p>
             </div>
           </div>
 
