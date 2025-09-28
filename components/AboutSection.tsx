@@ -1,35 +1,6 @@
 import React from "react"
 import Image from "next/image"
-import { AiOutlineFileJpg, AiOutlineGithub, AiOutlineHtml5 } from "react-icons/ai"
-
-// const skills = [
-//   { skill: "HTML" },
-//   { skill: "CSS" },
-//   { skill: "JavaScript" },
-//   { skill: "Python" },
-//   { skill: "C++" },
-//   { skill: "Machine Learning" },
-//   { skill: "Data Science" },
-//   { skill: "Flutter" },
-//   { skill: "GitHub" },
-//   { skill: "MongoDB" },
-// ]
-// const skillsdesign = [
-//   { skill: "Adobe Illustrator" },
-//   { skill: "Adobe Photoshop" },
-//   { skill: "PowerDirector" },
-//   { skill: "Canva" },
-// ]
-
-// const skillsframes = [
-//   { skill: "React" },
-//   { skill: "Node" },
-//   { skill: "Next.js" },
-//   { skill: "Tailwind CSS" },
-//   { skill: "BootStrap" },
-//   { skill: "OpenCV" },
-//   { skill: "MediaPipe " },
-// ]
+import { AiOutlineGithub, AiOutlineHtml5 } from "react-icons/ai"
 
 const AboutSection = () => {
   return (
@@ -45,29 +16,25 @@ const AboutSection = () => {
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
               Get to know me!
             </h1>
-            <p>
-              Hi, my name is <span className="font-bold text-teal-500">Abhishek Jani </span>and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> Full Stack Developer & Graphic Designer.
+            <p>      
+              Hi, my name is <span className="font-bold text-teal-500">Abhishek Jani</span> and I am a{" "}
+              <span className="font-bold">passionate</span>, <span className="font-bold">self-motivated</span>, and
+              <span className="font-bold">driven</span> Software Developer.
             </p>
             <br />
             <p>
-              😄 I am pursuing Bachelor&#39;s of Engineering in Information Technology.<br></br>
-              🚀 Currently, i am in my Final year of Engineering.<br></br>
-              🪴 I am learning more about MERN Stack.<br></br>
-              🙌 I also work on Freelancing Projects.
+              🚀 Currently working as a  <span className="font-bold text-teal-500"> Software Developer </span>at <span className="font-bold">ARCON</span>,
+              where I focus on building secure, scalable, and high-performance applications. I specialize in technologies like
+              Angular, React, Next.js, Node.js, and databases such as MongoDB and MySQL.
             </p>
             <br />
             <p>
-              I believe that you should{" "}
-              <span className="font-bold text-teal-500">
-                never stop growing
-              </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities.🤩
+              📚 I graduated with a <span className="font-bold">B.E. in Information Technology</span> from
+              Vidyavardhini’s College of Engineering and Technology with a CGPA of 9.0, where I also led student communities and won
+              multiple hackathons including the <span className="font-bold">SIH 2023</span>.
+              I believe in <span className="font-bold text-teal-500">continuous growth</span>, love collaborating on
+              challenging problems, and thrive on creating products that make an impact.
+              Always excited about new opportunities, I’m looking forward to what’s next in my journey! 🤩
             </p>
             <br />
             <Image
